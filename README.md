@@ -22,16 +22,6 @@ Interface Summary:
 - Element: Represents an HTML element.
 
 Class Summary: 
-- AnchorElement: Represents the <a> tag.
-- HeadingElement: Represents a heading.
-- ImageElement: Represents an <img> tag.
-- ListElement: Represents the <ul> and <ol> tags.
-- ParagraphElement: Represents a paragraph (<p>) tag.
-- TableElement: Represents the <table> tag.
-- TagElement: Represents an HTML tag element (<<p>, <ul>, etc.).
-- TextElement: Represents text that can appear in an HTML document.
-- Utilities: Provides utility methods for the system.
-- WebPage: Represents a web page.
 
 # Project 3: Clear Cell Game
 Project Description: This project will allow you practice two-dimensional arrays, abstract classes, and test development. For this project, you will implement code for a game named clear cell game. The game's goal is to maximize the number of cleared cells in a colored board. 
