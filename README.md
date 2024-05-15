@@ -25,12 +25,11 @@ Class Summary:
 - AnchorElement: Represents the <a> tag.
 - HeadingElement: Represents a heading.
 - ImageElement: Represents an <img> tag.
-- ListElement: Represents the <ul> and <ol> tags.
+- ListElement: Represents the <ul> and the <ol> tags.
 - ParagraphElement: Represents a paragraph (<p>) tag.
 - TableElement: Represents the <table> tag.
 - TagElement: Represents an HTML tag element (<<p>, <ul>, etc.).
 - TextElement: Represents text that can appear in an HTML document.
-- Utilities: Provides utility methods for the system.
 - WebPage: Represents a web page.
 
 # Project 3: Clear Cell Game
